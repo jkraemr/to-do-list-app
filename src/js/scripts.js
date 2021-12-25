@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 function newItem() {
 
   // Add new item to list via text input
