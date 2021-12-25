@@ -1,11 +1,11 @@
 # To-Do List App
 
-Prototype of a simple to-do list app with the following features:
+Prototype of a simple to-do list app with the following features to modify list of items:
 
-* Add a new item to list of items
-* Cross out item from list of items
-* Delete item from list of items
-* Change order of items in list of items
+* Add new item to list via text input
+* Cross out item from list via double-click
+* Remove item from list via delete button (X)
+* Reorder items in list via click & drag up/down
 
 ## Built with
 * HTML5

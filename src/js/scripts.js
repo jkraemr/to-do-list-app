@@ -17,7 +17,7 @@ function newItem() {
     li.toggleClass('strike');
   });
 
-  // Remove item from list via button deleteButton with X
+  // Remove item from list via delete button (X)
   let deleteButton = $('<deleteButton>');
   deleteButton.append(document.createTextNode('X'));
   li.append(deleteButton);
