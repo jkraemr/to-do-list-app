@@ -33,4 +33,4 @@ Prototype of a simple to-do list app with the following features:
 `
 
 ## Acknowledgments
-This project was built as part of the <a href="https://careerfoundry.com/" target="_blank">CareerFoundry</a> Full-Stack Web Development Program / Achievement 1 / Introduction to JavaScript / Introduction to jQuery.
+This project was built as part of the CareerFoundry Full-Stack Web Development Program / Achievement 1 / Introduction to JavaScript / Introduction to jQuery.
