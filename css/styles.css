@@ -2,7 +2,7 @@
   --color__01: #fff;
   --color__02: #000;
   --color__03: #;
-  --bg-color__01: rgb(175, 45, 76);
+  --bg-color__01: rgb(15 26 24);
   --bg-color__02: green;
   --bg-color__03: white;
   --bg-color__04: black;
@@ -79,4 +79,3 @@ li>deleteButton {
   color: var(--bg-color__01);
   font-weight: 800;
 }
-  
