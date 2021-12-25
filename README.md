@@ -2,7 +2,7 @@
 
 Prototype of a simple to-do list app with the following features to modify list of items:
 
-* Add new item to list via text input
+* Add new item to list via text input / Add button
 * Cross out item from list via double-click
 * Remove item from list via delete button (X)
 * Reorder items in list via click & drag up/down

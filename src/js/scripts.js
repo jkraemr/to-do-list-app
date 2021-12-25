@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 function newItem() {
 
-  // Add new item to list via text input
+  // Add new item to list via text input / Add button
   let li = $('<li>');
   let inputValue = $('#input').val();
   li.append(inputValue);
@@ -17,7 +17,7 @@ function newItem() {
     li.toggleClass('strike');
   });
 
-  // Remove item from list via delete button (X)
+  // Remove item from list via Delete button (X)
   let deleteButton = $('<deleteButton>');
   deleteButton.append(document.createTextNode('X'));
   li.append(deleteButton);
