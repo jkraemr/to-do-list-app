@@ -1,2 +1,41 @@
-# to-do-list-app
- 
+#To-Do List App
+
+Prototype of a simple to-do list app with the following features:
+
+* Add a new item to list of items
+* Cross out item from list of items
+* Delete item from list of items
+* Change order of items in list of items
+
+## Built with
+* HTML5
+* CSS3
+* JavaScript ES6
+
+## Dependencies
+* jQuery 3.5.1
+* jQuery UI 1.12.1
+
+## ESLint rules
+`{
+  "env": {
+    "es6": true,
+    "browser": true,
+    "jquery": true
+  },
+  "extends": [
+    "eslint:recommended"
+  ],
+  "rules": {
+    "quotes": ["error", "single"]
+  }
+}
+`
+
+## Author
+* GitHub: [@jkraemr](https://github.com/jkraemr/to-do-list-app){:target="_blank" rel="noopener"}
+
+## Acknowledgments
+This project was built as part of the [CareerFoundry](https://careerfoundry.com/){:target="_blank" rel="noopener"} Full-Stack Web Development Program / Achievement 1 / Introduction to JavaScript / Introduction to jQuery.
+
+[View current deployment on GitHub pages](https://github.com/jkraemr/to-do-list-app/deployments/activity_log?environment=github-pages){:target="_blank" rel="noopener"}
