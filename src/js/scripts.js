@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 function newItem() {
 
-  // Add new item to list via text input / Add button
+  // Add new item to list via text input / add button
   let li = $('<li>');
   let inputValue = $('#input').val();
   li.append(inputValue);
