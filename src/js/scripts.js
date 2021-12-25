@@ -18,7 +18,7 @@ function newItem() {
   });
 
   // Remove item from list via delete button (X)
-  let deleteButton = $('<deleteButton>');
+  let deleteButton = $('<button>');
   deleteButton.append(document.createTextNode('X'));
   li.append(deleteButton);
   deleteButton.on('click', function() {
