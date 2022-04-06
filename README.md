@@ -1,6 +1,6 @@
 # To-Do List App
 
-Prototype of a simple to-do list app with the following features to modify list of items:
+Prototype of a simple to-do list app built with JavaScript / jQuery with the following features to modify list of items:
 
 * Add new item to list via text input / add button
 * Cross out item from list via double-click
