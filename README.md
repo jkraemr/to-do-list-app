@@ -32,5 +32,6 @@ Prototype of a simple to-do list app with the following features to modify list 
 }
 `
 
-## Acknowledgments
-This project was built as part of the CareerFoundry Full-Stack Web Development Program / Achievement 1 / Introduction to JavaScript / Introduction to jQuery.
+## Acknowledgements
+
+This project was built as part of the mentored CareerFoundry Full-Stack Web Development Program / Achievement 1/6 / Introduction to JavaScript / Introduction to jQuery: https://careerfoundry.com/en/courses/become-a-web-developer/
